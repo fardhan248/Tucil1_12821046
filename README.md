@@ -22,5 +22,5 @@ $ java Main
 3. Jalankan program
 
 # Author
-Fardhan Indrayesa
+Fardhan Indrayesa <br>
 NIM: 12821046
